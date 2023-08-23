@@ -1,0 +1,29 @@
+{
+  "name": "yabaishiba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandon-lindberg/yabaishiba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandon-lindberg/yabaishiba/issues"
+  },
+  "homepage": "https://github.com/brandon-lindberg/yabaishiba#readme",
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+  "start": "http-server -c-1"
+}
+}
